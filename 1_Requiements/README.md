@@ -23,12 +23,16 @@ HOW:
 •This project takes in all the input values and yields out the management parameters.
 
 ## FOLDER AND STRUCTURE
-Plugin	README
-1_REQUIREMENT	Document detailing requirements
-2_DESIGN	Structural and Behavioural UM
-3_IMPLEMENTATION	All the code is written here
-4_TestPlanAndOutput	Documents with test plans and outputs
-5_REPORT	Generated report
+
+1_REQUIREMENT----	Document detailing requirements
+
+2_DESIGN ----	Structural and Behavioural UM
+
+3_IMPLEMENTATION----	All the code is written here
+
+4_TestPlanAndOutput----	Documents with test plans and outputs
+
+5_REPORT----	Generated report
 
 ## SWOT ANALYSIS
 STRENGTH:
