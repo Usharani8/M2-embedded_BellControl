@@ -1,7 +1,6 @@
+## Block diagram
 
-Block diagram
+## Structure diagram
 
-Structure diagram
-
-Simulation diagram
+## Simulation diagram
 
