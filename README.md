@@ -7,6 +7,8 @@ The heat control system is basically used to control the temperature of a car se
 
 [![Linux C/C++ CI](https://github.com/Usharani8/M2-Embedded_BellControl/actions/workflows/linux.yml/badge.svg)](https://github.com/Usharani8/M2-Embedded_BellControl/actions/workflows/linux.yml)
 
+[![Windows C/C++ CI](https://github.com/Usharani8/M2-Embedded_BellControl/actions/workflows/windows.yml/badge.svg)](https://github.com/Usharani8/M2-Embedded_BellControl/actions/workflows/windows.yml)
+
 
 
 
