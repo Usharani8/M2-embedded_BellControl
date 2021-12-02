@@ -15,3 +15,6 @@ The heat control system is basically used to control the temperature of a car se
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b9006573fd9c4dd9a5adc0c8186a7188)](https://www.codacy.com/gh/Usharani8/M2-Embedded_BellControl/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Usharani8/M2-Embedded_BellControl&amp;utm_campaign=Badge_Grade)
 
 
+![Codiga](https://api.codiga.io/project/30282/score/svg)
+
+![Codiga](https://api.codiga.io/project/30282/status/svg)
